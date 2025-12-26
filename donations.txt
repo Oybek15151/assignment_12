@@ -1,0 +1,7 @@
+Alice,HomelessShelter,200,100
+Bob,FoodBank,50,50
+Charlie,HomelessShelter,400,200
+Diana,AnimalRescue,1000,0
+Corrupt,Line,No,Money
+Eve,FoodBank,20,10
+Frank,AnimalRescue,300,300
